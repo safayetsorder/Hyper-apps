@@ -83,3 +83,64 @@ body {
 }
 
 /* second header end  */
+/* thirtd header start  */
+.third-header container {
+    text-align: center;
+}
+
+/* .third-header container h1 {
+        display: flex;
+    color: blueviolet;
+    padding: 18px 75px;
+} */
+.heading {
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+
+.paragraph {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+
+.image {
+    width: 100%;
+    padding: 18px 75px;
+    height: 25px;
+    margin-bottom: 29px;
+
+}
+
+.button-2 {
+    color: aliceblue;
+    padding: 18px;
+    background-color: blueviolet;
+    border-radius: 6px;
+    text-decoration: none;
+    margin: auto;
+    margin-left: 350px;
+    cursor: pointer;
+    margin-bottom: 29px;
+    margin-top: 29px;
+
+
+}
+
+/* .button-2 {
+    lay: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent; */
+.button-2 :hover {
+    color: blueviolet;
+    padding: 1200px;
+    background-color: aliceblue;
+    transition: 0.5s;
+}
