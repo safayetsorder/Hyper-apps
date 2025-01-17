@@ -138,9 +138,10 @@ body {
     position: relative;
     box-sizing: border-box;
     -webkit-tap-highlight-color: transparent; */
-.button-2 :hover {
+.button-2:hover {
     color: blueviolet;
-    padding: 1200px;
+    padding: 25px;
     background-color: aliceblue;
     transition: 0.5s;
+    margin-bottom: 50px;
 }
